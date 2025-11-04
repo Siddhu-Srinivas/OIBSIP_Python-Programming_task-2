@@ -1,0 +1,142 @@
+[
+    {
+        "date": "2025-10-19 21:57",
+        "bmi": 9.27,
+        "category": "Underweight",
+        "weight": "54.0 lbs",
+        "height": "5 ft 4 in"
+    },
+    {
+        "date": "2025-10-19 22:35",
+        "bmi": 8.61,
+        "category": "Underweight",
+        "weight": "55.0 lbs",
+        "height": "5 ft 7 in"
+    },
+    {
+        "date": "2025-10-19 22:35",
+        "bmi": 8.61,
+        "category": "Underweight",
+        "weight": "55.0 lbs",
+        "height": "5 ft 7 in"
+    },
+    {
+        "date": "2025-10-19 22:35",
+        "bmi": 8.61,
+        "category": "Underweight",
+        "weight": "55.0 lbs",
+        "height": "5 ft 7 in"
+    },
+    {
+        "date": "2025-10-19 22:47",
+        "bmi": 10.56,
+        "category": "Underweight",
+        "weight": "66.0 kg",
+        "height": "2.50 m"
+    },
+    {
+        "date": "2025-10-19 22:47",
+        "bmi": 16.5,
+        "category": "Underweight",
+        "weight": "66.0 kg",
+        "height": "2.00 m"
+    },
+    {
+        "date": "2025-10-19 22:55",
+        "bmi": 15.24,
+        "category": "Underweight",
+        "weight": "55.0 kg",
+        "height": "1.90 m"
+    },
+    {
+        "date": "2025-10-19 22:55",
+        "bmi": 18.01,
+        "category": "Underweight",
+        "weight": "65.0 kg",
+        "height": "1.90 m"
+    },
+    {
+        "date": "2025-10-19 23:00",
+        "bmi": 22.86,
+        "category": "Normal Weight",
+        "weight": "70.0 kg",
+        "height": "1.75 m"
+    },
+    {
+        "date": "2025-10-19 23:02",
+        "bmi": 20.7,
+        "category": "Normal Weight",
+        "weight": "53.0 kg",
+        "height": "1.60 m"
+    },
+    {
+        "date": "2025-10-19 23:09",
+        "bmi": 26.67,
+        "category": "Overweight",
+        "weight": "60.0 kg",
+        "height": "1.50 m"
+    },
+    {
+        "date": "2025-10-19 23:18",
+        "bmi": 20.7,
+        "category": "Normal Weight",
+        "weight": "53.0 kg",
+        "height": "1.60 m"
+    },
+    {
+        "date": "2025-10-19 23:19",
+        "bmi": 20.7,
+        "category": "Normal Weight",
+        "weight": "53.0 kg",
+        "height": "1.60 m"
+    },
+    {
+        "date": "2025-10-19 23:22",
+        "bmi": 19.53,
+        "category": "Normal Weight",
+        "weight": "50.0 kg",
+        "height": "1.60 m"
+    },
+    {
+        "date": "2025-10-19 23:28",
+        "bmi": 19.03,
+        "category": "Normal Weight",
+        "weight": "55.0 kg",
+        "height": "1.70 m"
+    },
+    {
+        "date": "2025-10-19 23:32",
+        "bmi": 24.44,
+        "category": "Normal Weight",
+        "weight": "55.0 kg",
+        "height": "1.50 m"
+    },
+    {
+        "date": "2025-10-19 23:43",
+        "bmi": 10.75,
+        "category": "Underweight",
+        "weight": "43.0 kg",
+        "height": "2.00 m"
+    },
+    {
+        "date": "2025-10-19 23:43",
+        "bmi": 29.86,
+        "category": "Overweight",
+        "weight": "43.0 kg",
+        "height": "1.20 m"
+    },
+    {
+        "date": "2025-10-19 23:46",
+        "bmi": 20.31,
+        "category": "Normal Weight",
+        "weight": "52.0 kg",
+        "height": "1.60 m"
+    },
+    {
+        "date": "2025-10-20 17:52",
+        "bmi": 8.93,
+        "category": "Underweight",
+        "weight": "57.0 lbs",
+        "height": "5 ft 7 in"
+    }
+]
